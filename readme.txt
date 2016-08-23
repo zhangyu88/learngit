@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 Creating a new branch is quick.
 Creating new branch is quick and simple.
+这是我开始进行分支管理策略
